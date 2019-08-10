@@ -1,0 +1,16 @@
+{
+  "name": "problem-statement",
+  "version": "1.0.0",
+  "description": "All basic programs",
+  "main": "callbackEx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.0.0",
+    "fs": "0.0.1-security",
+    "os": "^0.1.1"
+  }
+}
